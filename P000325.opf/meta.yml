@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD90121
   title: མའོ་རྫོང་གི་ས་ཆའི་མིང་བཏུས།
-  volume: ''
+  volume:
+    f3c91f0f787d4894bee93f1874685fe4:
+      image_group_id: I1PD90137
+      title: Volume 1 of mao wen qiang zu zi zhi xian di ming lu
+      volume_number: 1
+      total_pages: 220
   author: ''
+ebook_metadata:
+  title: མའོ་རྫོང་གི་ས་ཆའི་མིང་བཏུས།
+  author: ''
+  sku: P000325
+  cover: cover.jpg
+  layers:
+  - pagination
